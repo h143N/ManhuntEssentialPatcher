@@ -1,5 +1,5 @@
 @echo off
-title Manhunt Essential Patcher @ https://github.com/hideNFN/ManhuntEssentialPatcher
+title Manhunt Essential Patcher @ https://github.com/h143N/ManhuntEssentialPatcher
 cd "audio\PC\SCRIPTED\CRAPPER" 
 rename CRAPPER.RIB CR4PPER.RIB
 cd ..
