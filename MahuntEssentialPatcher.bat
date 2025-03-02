@@ -1,5 +1,5 @@
 @echo off
-title Manhunt Essential Patcher @ https://github.com/hideNFN/ManhuntEssentialPatcher
+title Manhunt Essential Patcher @ https://github.com/h143N/ManhuntEssentialPatcher
 if not exist manhunt.exe exit
 if not exist testapp.exe exit
 mkdir BACKUP
